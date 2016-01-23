@@ -11,7 +11,7 @@
 
 int main()
 {
-    printf("B");
+    printf("A");
     return 0;
 }
 
