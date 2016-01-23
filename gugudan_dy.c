@@ -1,3 +1,5 @@
+#include "func.h"
+
 void gugudan_dy() {
   int i=0, k=0;
   
