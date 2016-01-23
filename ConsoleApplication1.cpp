@@ -11,7 +11,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     printf("B");
+=======
+    printf("A");
+>>>>>>> refs/remotes/origin/master
     return 0;
 }
 
